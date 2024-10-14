@@ -3,6 +3,9 @@
 ## Project Description
 MathQuiz is an educational app designed to help elementary school students develop and improve their math skills. The app generates random math questions and checks the students' answers, providing immediate feedback to help them learn and grow.
 
+## Project Requirements
+![Specifics](images/picpic.JPG)
+
 ## Installation
 To install and run MathQuiz, follow these steps:
 1. Clone the repository:
